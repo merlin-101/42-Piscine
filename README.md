@@ -78,9 +78,10 @@
 
 ## [C06](https://github.com/merlin-101/42-Piscine/tree/main/C-06) - Understanding Argc and Argv - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2803693" alt="rnarciso's 42 C Piscine C 06 Score" /></a>
 
-- [ex00: ft_print_program_name] - Print the Name of a Program
-- [ex01: ft_print_params] - Print Parameters of a Program
-- [ex02: ft_rev_params] - Print Parameters of a Program in Reverse
+- [ex00: ft_print_program_name](https://github.com/merlin-101/42-Piscine/blob/main/C-06/ex00/ft_print_program_name.c) - Print the Name of a Program
+- [ex01: ft_print_params](https://github.com/merlin-101/42-Piscine/blob/main/C-06/ex01/ft_print_params.c) - Print Parameters of a Program
+- [ex02: ft_rev_params](https://github.com/merlin-101/42-Piscine/blob/main/C-06/ex02/ft_rev_params.c) - Print Parameters of a Program in Reverse
+- [ex03: ft_sort_params.c](https://github.com/merlin-101/42-Piscine/blob/main/C-06/ex03/ft_sort_params.c) - Create a program that displays its given arguments sorted by ascii order
 
 ## [C07](https://github.com/merlin-101/42-Piscine/tree/main/C-07) - Memory Allocation - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2806315" alt="rnarciso's 42 C Piscine C 07 Score" /></a>
 
