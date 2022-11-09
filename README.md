@@ -14,19 +14,21 @@
 - [ex03: ft_print_numbers](https://github.com/merlin-101/42-Piscine/blob/main/C-00/ex03/ft_print_numbers.c) - Print the Numbers 0 to 9
 - [ex04: ft_is_negative](https://github.com/merlin-101/42-Piscine/blob/main/C-00/ex04/ft_is_negative.c) - Print the Numbers 9 to 0 in Reverse
 - [ex05: ft_print_comb](https://github.com/merlin-101/42-Piscine/blob/main/C-00/ex05/ft_print_comb.c) - Combine Numbers into Different Double Combinations
-- [ex06: ft_print_comb2.c](https://github.com/merlin-101/42-Piscine/blob/main/C-00/ex06/ft_print_comb2.c) - Create a function that displays all different combination of two digits between 00...
-- [ex07: ft_putnbr.c](https://github.com/merlin-101/42-Piscine/blob/main/C-00/ex07/ft_putnbr.c) - Create a function that displays the number entered as a parameter...
-- [ex08: ft_print_combn.c](https://github.com/merlin-101/42-Piscine/blob/main/C-00/ex08/ft_print_combn.c) - Create a function that displays all different combinations of n numbers...
+- [ex06: ft_print_comb2](https://github.com/merlin-101/42-Piscine/blob/main/C-00/ex06/ft_print_comb2.c) - Create a function that displays all different combination of two digits between 00...
+- [ex07: ft_putnbr](https://github.com/merlin-101/42-Piscine/blob/main/C-00/ex07/ft_putnbr.c) - Create a function that displays the number entered as a parameter...
+- [ex08: ft_print_combn](https://github.com/merlin-101/42-Piscine/blob/main/C-00/ex08/ft_print_combn.c) - Create a function that displays all different combinations of n numbers...
 
 ## [C01](https://github.com/merlin-101/42-Piscine/tree/main/C-01) - Pointers and If Statements - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2788573" alt="rnarciso's 42 C Piscine C 01 Score" /></a>
 
-- [ex00: ft_ft] - Make a Pointer to 42
-- [ex01: ft_ultimate_ft] - Make a Pointer to a Pointer to a...to 42
-- [ex02: ft_swap] - Swap Two Values, Using a Temporary Variable
-- [ex03: ft_div_mod] - Use Div and Mod to Return a Value
-- [ex04: ft_ultimate_div_mod] - Store Values, Swap Them, use Div and Mod
-- [ex05: ft_putstr] - Write a String
-- [ex06: ft_strlen] - Get the Length of a String
+- [ex00: ft_ft](https://github.com/merlin-101/42-Piscine/blob/main/C-01/ex00/ft_ft.c) - Make a Pointer to 42
+- [ex01: ft_ultimate_ft](https://github.com/merlin-101/42-Piscine/blob/main/C-01/ex01/ft_ultimate_ft.c) - Make a Pointer to a Pointer to a...to 42
+- [ex02: ft_swap](https://github.com/merlin-101/42-Piscine/blob/main/C-01/ex02/ft_swap.c) - Swap Two Values, Using a Temporary Variable
+- [ex03: ft_div_mod](https://github.com/merlin-101/42-Piscine/blob/main/C-01/ex03/ft_div_mod.c) - Use Div and Mod to Return a Value
+- [ex04: ft_ultimate_div_mod](https://github.com/merlin-101/42-Piscine/blob/main/C-01/ex04/ft_ultimate_div_mod.c) - Store Values, Swap Them, use Div and Mod
+- [ex05: ft_putstr](https://github.com/merlin-101/42-Piscine/blob/main/C-01/ex05/ft_putstr.c) - Write a String
+- [ex06: ft_strlen](https://github.com/merlin-101/42-Piscine/blob/main/C-01/ex06/ft_strlen.c) - Get the Length of a String
+- [ex07: ft_rev_int_tab](https://github.com/merlin-101/42-Piscine/blob/main/C-01/ex07/ft_rev_int_tab.c) - Create a function which reverses a given array of integer
+- [ex08: ft_sort_int_tab](https://github.com/merlin-101/42-Piscine/blob/main/C-01/ex08/ft_sort_int_tab.c) - Create a function which sorts an array of integers by ascending order
 
 ## [C02](https://github.com/merlin-101/42-Piscine/tree/main/C-02) - Introduction To Strings and Arrays - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2790105" alt="rnarciso's 42 C Piscine C 02 Score" /></a>
 
