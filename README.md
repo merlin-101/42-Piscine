@@ -32,15 +32,19 @@
 
 ## [C02](https://github.com/merlin-101/42-Piscine/tree/main/C-02) - Introduction To Strings and Arrays - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2790105" alt="rnarciso's 42 C Piscine C 02 Score" /></a>
 
-- [ex00: ft_strcpy] - Copy a String
-- [ex01: ft_strncpy] - String Copy With an Unsigned Int
-- [ex02: ft_str_is_alpha] - Conditional Statements using Arrays
-- [ex03: ft_str_is_numeric] - Check a String is Numbers
-- [ex04: ft_str_is_lowercase] - Check a String is Lowercase
-- [ex05: ft_str_is_uppercase] - Check a String is Uppercase
-- [ex06: ft_str_is_printable] - Check a String is Printable
-- [ex07: ft_strupcase] - Make a String Uppercase
-- [ex08: ft_strlowcase] - Make a String Lowercase
+- [ex00: ft_strcpy](https://github.com/merlin-101/42-Piscine/blob/main/C-02/ex00/ft_strcpy.c) - Copy a String
+- [ex01: ft_strncpy](https://github.com/merlin-101/42-Piscine/blob/main/C-02/ex01/ft_strncpy.c) - String Copy With an Unsigned Int
+- [ex02: ft_str_is_alpha](https://github.com/merlin-101/42-Piscine/blob/main/C-02/ex02/ft_str_is_alpha.c) - Conditional Statements using Arrays
+- [ex03: ft_str_is_numeric](https://github.com/merlin-101/42-Piscine/blob/main/C-02/ex03/ft_str_is_numeric.c) - Check a String is Numbers
+- [ex04: ft_str_is_lowercase](https://github.com/merlin-101/42-Piscine/blob/main/C-02/ex04/ft_str_is_lowercase.c) - Check a String is Lowercase
+- [ex05: ft_str_is_uppercase](https://github.com/merlin-101/42-Piscine/blob/main/C-02/ex05/ft_str_is_uppercase.c) - Check a String is Uppercase
+- [ex06: ft_str_is_printable](https://github.com/merlin-101/42-Piscine/blob/main/C-02/ex06/ft_str_is_printable.c) - Check a String is Printable
+- [ex07: ft_strupcase](https://github.com/merlin-101/42-Piscine/blob/main/C-02/ex07/ft_strupcase.c) - Make a String Uppercase
+- [ex08: ft_strlowcase](https://github.com/merlin-101/42-Piscine/blob/main/C-02/ex08/ft_strlowcase.c) - Make a String Lowercase
+- [ex09: ft_strcapitalize](https://github.com/merlin-101/42-Piscine/blob/main/C-02/ex09/ft_strcapitalize.c) - Create a function that capitalizes the first letter of each word and...
+- [ex10: ft_strlcpy](https://github.com/merlin-101/42-Piscine/blob/main/C-02/ex10/ft_strlcpy.c) - Reproduce the behavior of the function strlcpy
+- [ex11: ft_putstr_non_printable.c](https://github.com/merlin-101/42-Piscine/blob/main/C-02/ex11/ft_putstr_non_printable.c) - Create a function that displays a string of characters onscreen. If this...
+- [ex12: ft_print_memory](https://github.com/merlin-101/42-Piscine/blob/main/C-02/ex12/ft_print_memory.c) - Create a function that displays the memory area onscreen...
 
 ## [C03](https://github.com/merlin-101/42-Piscine/tree/main/C-03) - String Functions, Manipulation and Concatanation - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2795683" alt="rnarciso's 42 C Piscine C 03 Score" /></a>
 
