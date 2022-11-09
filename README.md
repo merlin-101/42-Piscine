@@ -90,21 +90,18 @@
 - [ex02: ft_ultimate_range](https://github.com/merlin-101/42-Piscine/blob/main/C-07/ex02/ft_ultimate_range.c) - Return the Length of a Range
 - [ex03: ft_strjoin](https://github.com/merlin-101/42-Piscine/blob/main/C-07/ex03/ft_strjoin.c) - Join Two Strings Together
 
-## [Shell00](https://github.com/merlin-101/42-Piscine/tree/main/Shell00) - Simple Unix and Git - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2766842" alt="rnarciso's 42 C Piscine Shell 00 Score" /></a>
+## [Shell00](https://github.com/merlin-101/42-Piscine/tree/main/Shell00) - Simple Unix and Git commands - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2766842" alt="rnarciso's 42 C Piscine Shell 00 Score" /></a>
 
-- [ex00: Z] - Create a file called z that returns "Z", followed by a new line.
-- [ex01: testShell00] - Create a file called testShell00 in your submission directory.
-- [ex02: Oh yeah, mooore...] - Create the following files and directories.
-- [ex03: SSH me!] - Create your own SSH key
-- [ex04: midLS] - In a midLS file, place the command line that will list all files and directories in your
-current directory.
-- [ex05: GiT commit] - Create a shell script that displays the ids of the last 5 commits of your git repository.
-- [ex06: gitignore] - In this exercice, you will write a short shell script that lists all the existing files
-ignored by your GiT repository
-- [ex07: diff] - Create a file b, so that
-- [ex08: clean] - In a file called clean place the command line that will search for all files...
-- [ex09: Illusions, not tricks, Michael...] - Create a magic file called ft_magic that will be formatted appropriately to detect
-files of 42 file type, built with a "42" string at the 42nd byte.
+- [ex00: Z](https://github.com/merlin-101/42-Piscine/blob/main/Shell00/ex00/z) - Create a file called z that returns "Z", followed by...
+- [ex01: testShell00](https://github.com/merlin-101/42-Piscine/blob/main/Shell00/ex01/testShell00.tar) - Create a file called testShell00 in your submission directory
+- [ex02: Oh yeah, mooore...](https://github.com/merlin-101/42-Piscine/blob/main/Shell00/ex02/exo2.tar) - Create the following files and directories
+- [ex03: SSH me!](https://github.com/merlin-101/42-Piscine/blob/main/Shell00/ex03/id_rsa_pub) - Create your own SSH key
+- [ex04: midLS](https://github.com/merlin-101/42-Piscine/blob/main/Shell00/ex04/midLS) - In a midLS file, place the command line that will list all files and directories in your current directory
+- [ex05: GiT commit](https://github.com/merlin-101/42-Piscine/blob/main/Shell00/ex05/git_commit.sh) - Create a shell script that displays the ids of...
+- [ex06: gitignore](https://github.com/merlin-101/42-Piscine/blob/main/Shell00/ex06/git_ignore.sh) - In this exercice, you will write a short shell script that lists all the...
+- [ex07: diff](https://github.com/merlin-101/42-Piscine/blob/main/Shell00/ex07/b) - Create a file b, so that...
+- [ex08: clean](https://github.com/merlin-101/42-Piscine/blob/main/Shell00/ex08/clean) - In a file called clean place the command line that will search for all files...
+- [ex09: Illusions, not tricks, Michael...](https://github.com/merlin-101/42-Piscine/blob/main/Shell00/ex09/ft_magic) - Create a magic file called ft_magic that will be formatted appropriately to...
 
 ## [Shell01](https://github.com/merlin-101/42-Piscine/tree/main/Shell01) - More advanced Unix commands - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2794331" alt="rnarciso's 42 C Piscine Shell 01 Score" /></a>
 
