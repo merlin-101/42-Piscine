@@ -15,7 +15,7 @@
 - [ex04: ft_is_negative] - Print the Numbers 9 to 0 in Reverse
 - [ex05: ft_print_comb] - Combine Numbers into Different Double Combinations
 
-## [C01] - Pointers and If Statements - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2788573" alt="rnarciso's 42 C Piscine C 01 Score" /></a>
+## [C01](https://github.com/merlin-101/42-Piscine/tree/main/C-01) - Pointers and If Statements - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2788573" alt="rnarciso's 42 C Piscine C 01 Score" /></a>
 
 - [ex00: ft_ft] - Make a Pointer to 42
 - [ex01: ft_ultimate_ft] - Make a Pointer to a Pointer to a...to 42
@@ -25,7 +25,7 @@
 - [ex05: ft_putstr] - Write a String
 - [ex06: ft_strlen] - Get the Length of a String
 
-## [C02] - Introduction To Strings and Arrays - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2790105" alt="rnarciso's 42 C Piscine C 02 Score" /></a>
+## [C02](https://github.com/merlin-101/42-Piscine/tree/main/C-02) - Introduction To Strings and Arrays - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2790105" alt="rnarciso's 42 C Piscine C 02 Score" /></a>
 
 - [ex00: ft_strcpy] - Copy a String
 - [ex01: ft_strncpy] - String Copy With an Unsigned Int
@@ -37,20 +37,20 @@
 - [ex07: ft_strupcase] - Make a String Uppercase
 - [ex08: ft_strlowcase] - Make a String Lowercase
 
-## [C03] - String Functions, Manipulation and Concatanation - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2795683" alt="rnarciso's 42 C Piscine C 03 Score" /></a>
+## [C03](https://github.com/merlin-101/42-Piscine/tree/main/C-03) - String Functions, Manipulation and Concatanation - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2795683" alt="rnarciso's 42 C Piscine C 03 Score" /></a>
 
 - [ex00: ft_strcmp] - Compare Two Strings, Returning a Value
 - [ex01: ft_strncmp] - Compare Two Strings, Returning a Value, Using Unsigned Ints
 - [ex02: ft_strcat] - Concatanate Two Strings
 - [ex03: ft_strncat] - Concatanate Two Strings, Using Unsigned Ints
 
-## [C04] - Analysing String Qualities and Manipulating Ints - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2798717" alt="rnarciso's 42 C Piscine C 04 Score" /></a>
+## [C04](https://github.com/merlin-101/42-Piscine/tree/main/C-04) - Analysing String Qualities and Manipulating Ints - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2798717" alt="rnarciso's 42 C Piscine C 04 Score" /></a>
 
 - [ex00: ft_strlen] - Get the Length of a String
 - [ex01: ft_putstr] - Print a String
 - [ex02: ft_putnbr] - Print Any Number Within The Max / Min Int
 
-## [C05] - Mathematical Concepts in C - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2803962" alt="rnarciso's 42 C Piscine C 05 Score" /></a>
+## [C05](https://github.com/merlin-101/42-Piscine/tree/main/C-05) - Mathematical Concepts in C - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2803962" alt="rnarciso's 42 C Piscine C 05 Score" /></a>
 
 - [ex00: ft_iterative_factorial] - Create a Program that Generates Iterative Factorials
 - [ex01: ft_recursive_factorial] - Generate Recursive Factorials
@@ -59,20 +59,20 @@
 - [ex04: ft_fibonacci] - Generate the Fibbonnacci Sequence
 - [ex05: ft_sqrt] - Find the Square Root of a Given Number
 
-## [C06] - Understanding Argc and Argv - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2803693" alt="rnarciso's 42 C Piscine C 06 Score" /></a>
+## [C06](https://github.com/merlin-101/42-Piscine/tree/main/C-06) - Understanding Argc and Argv - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2803693" alt="rnarciso's 42 C Piscine C 06 Score" /></a>
 
 - [ex00: ft_print_program_name] - Print the Name of a Program
 - [ex01: ft_print_params] - Print Parameters of a Program
 - [ex02: ft_rev_params] - Print Parameters of a Program in Reverse
 
-## [C07] - Memory Allocation - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2806315" alt="rnarciso's 42 C Piscine C 07 Score" /></a>
+## [C07](https://github.com/merlin-101/42-Piscine/tree/main/C-07) - Memory Allocation - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2806315" alt="rnarciso's 42 C Piscine C 07 Score" /></a>
 
 - [ex00: ft_strdup] - Duplicate a String
 - [ex01: ft_range] - Return a Range
 - [ex02: ft_ultimate_range] - Return the Length of a Range
 - [ex03: ft_strjoin] - Join Two Strings Together
 
-## [Shell00] - Simple Unix and Git - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2766842" alt="rnarciso's 42 C Piscine Shell 00 Score" /></a>
+## [Shell00](https://github.com/merlin-101/42-Piscine/tree/main/Shell00) - Simple Unix and Git - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2766842" alt="rnarciso's 42 C Piscine Shell 00 Score" /></a>
 
 - [ex00: Z] - Create a file called z that returns "Z", followed by a new line.
 - [ex01: testShell00] - Create a file called testShell00 in your submission directory.
@@ -88,7 +88,7 @@ ignored by your GiT repository
 - [ex09: Illusions, not tricks, Michael...] - Create a magic file called ft_magic that will be formatted appropriately to detect
 files of 42 file type, built with a "42" string at the 42nd byte.
 
-## [Shell01] - More advanced Unix commands - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2794331" alt="rnarciso's 42 C Piscine Shell 01 Score" /></a>
+## [Shell01](https://github.com/merlin-101/42-Piscine/tree/main/Shell01) - More advanced Unix commands - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2794331" alt="rnarciso's 42 C Piscine Shell 01 Score" /></a>
 
 - [ex01: print_groups] - Write a command line that will display the list of groups for which...
 - [ex02: find_sh] - Write a command line that searches for all file names that end with ".sh"...
