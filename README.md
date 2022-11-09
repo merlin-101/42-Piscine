@@ -57,9 +57,12 @@
 
 ## [C04](https://github.com/merlin-101/42-Piscine/tree/main/C-04) - Analysing String Qualities and Manipulating Ints - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2798717" alt="rnarciso's 42 C Piscine C 04 Score" /></a>
 
-- [ex00: ft_strlen] - Get the Length of a String
-- [ex01: ft_putstr] - Print a String
-- [ex02: ft_putnbr] - Print Any Number Within The Max / Min Int
+- [ex00: ft_strlen](https://github.com/merlin-101/42-Piscine/blob/main/C-04/ex00/ft_strlen.c) - Get the Length of a String
+- [ex01: ft_putstr](https://github.com/merlin-101/42-Piscine/blob/main/C-04/ex01/ft_putstr.c) - Print a String
+- [ex02: ft_putnbr](https://github.com/merlin-101/42-Piscine/blob/main/C-04/ex02/ft_putnbr.c) - Print Any Number Within The Max / Min Int
+- [ex03: ft_atoi](https://github.com/merlin-101/42-Piscine/blob/main/C-04/ex03/ft_atoi.c) - Write a function that converts the initial portion of the string pointed by str to...
+- [ex04: ft_putnbr_base](https://github.com/merlin-101/42-Piscine/blob/main/C-04/ex04/ft_putnbr_base.c) - Create a function that displays a number in a base system in...
+- [ex05: ft_atoi_base](https://github.com/merlin-101/42-Piscine/blob/main/C-04/ex05/ft_atoi_base.c) - Write a function that converts the initial portion of the string pointed by...
 
 ## [C05](https://github.com/merlin-101/42-Piscine/tree/main/C-05) - Mathematical Concepts in C - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2803962" alt="rnarciso's 42 C Piscine C 05 Score" /></a>
 
