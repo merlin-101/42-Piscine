@@ -85,10 +85,10 @@
 
 ## [C07](https://github.com/merlin-101/42-Piscine/tree/main/C-07) - Memory Allocation - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2806315" alt="rnarciso's 42 C Piscine C 07 Score" /></a>
 
-- [ex00: ft_strdup] - Duplicate a String
-- [ex01: ft_range] - Return a Range
-- [ex02: ft_ultimate_range] - Return the Length of a Range
-- [ex03: ft_strjoin] - Join Two Strings Together
+- [ex00: ft_strdup](https://github.com/merlin-101/42-Piscine/blob/main/C-07/ex00/ft_strdup.c) - Duplicate a String
+- [ex01: ft_range](https://github.com/merlin-101/42-Piscine/blob/main/C-07/ex01/ft_range.c) - Return a Range
+- [ex02: ft_ultimate_range](https://github.com/merlin-101/42-Piscine/blob/main/C-07/ex02/ft_ultimate_range.c) - Return the Length of a Range
+- [ex03: ft_strjoin](https://github.com/merlin-101/42-Piscine/blob/main/C-07/ex03/ft_strjoin.c) - Join Two Strings Together
 
 ## [Shell00](https://github.com/merlin-101/42-Piscine/tree/main/Shell00) - Simple Unix and Git - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2766842" alt="rnarciso's 42 C Piscine Shell 00 Score" /></a>
 
