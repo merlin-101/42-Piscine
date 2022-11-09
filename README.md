@@ -9,11 +9,14 @@
 ## [C00](https://github.com/merlin-101/42-Piscine/tree/main/C-00) - Introduction to C - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2772235" alt="rnarciso's 42 C Piscine C 00 Score" /></a>
 
 - [ex00: ft_putchar](https://github.com/merlin-101/42-Piscine/blob/main/C-00/ex00/ft_putchar.c) - Print a Character
-- [ex01: ft_print_alphabet] - Print the Alphabet
-- [ex02: ft_print_reverse_alphabet] - Print the Alphabet in Reverse
-- [ex03: ft_print_numbers] - Print the Numbers 0 to 9
-- [ex04: ft_is_negative] - Print the Numbers 9 to 0 in Reverse
-- [ex05: ft_print_comb] - Combine Numbers into Different Double Combinations
+- [ex01: ft_print_alphabet](https://github.com/merlin-101/42-Piscine/blob/main/C-00/ex01/ft_print_alphabet.c) - Print the Alphabet
+- [ex02: ft_print_reverse_alphabet](https://github.com/merlin-101/42-Piscine/blob/main/C-00/ex02/ft_print_reverse_alphabet.c) - Print the Alphabet in Reverse
+- [ex03: ft_print_numbers](https://github.com/merlin-101/42-Piscine/blob/main/C-00/ex03/ft_print_numbers.c) - Print the Numbers 0 to 9
+- [ex04: ft_is_negative](https://github.com/merlin-101/42-Piscine/blob/main/C-00/ex04/ft_is_negative.c) - Print the Numbers 9 to 0 in Reverse
+- [ex05: ft_print_comb](https://github.com/merlin-101/42-Piscine/blob/main/C-00/ex05/ft_print_comb.c) - Combine Numbers into Different Double Combinations
+- [ex06: ft_print_comb2.c](https://github.com/merlin-101/42-Piscine/blob/main/C-00/ex06/ft_print_comb2.c) - Create a function that displays all different combination of two digits between 00...
+- [ex07: ft_putnbr.c](https://github.com/merlin-101/42-Piscine/blob/main/C-00/ex07/ft_putnbr.c) - Create a function that displays the number entered as a parameter...
+- [ex08: ft_print_combn.c](https://github.com/merlin-101/42-Piscine/blob/main/C-00/ex08/ft_print_combn.c) - Create a function that displays all different combinations of n numbers...
 
 ## [C01](https://github.com/merlin-101/42-Piscine/tree/main/C-01) - Pointers and If Statements - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2788573" alt="rnarciso's 42 C Piscine C 01 Score" /></a>
 
