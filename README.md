@@ -66,12 +66,15 @@
 
 ## [C05](https://github.com/merlin-101/42-Piscine/tree/main/C-05) - Mathematical Concepts in C - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2803962" alt="rnarciso's 42 C Piscine C 05 Score" /></a>
 
-- [ex00: ft_iterative_factorial] - Create a Program that Generates Iterative Factorials
-- [ex01: ft_recursive_factorial] - Generate Recursive Factorials
-- [ex02: ft_iterative_power] - Generate Iterative Powers
-- [ex03: ft_recursive_power] - Generate Recursive Powers
-- [ex04: ft_fibonacci] - Generate the Fibbonnacci Sequence
-- [ex05: ft_sqrt] - Find the Square Root of a Given Number
+- [ex00: ft_iterative_factorial](https://github.com/merlin-101/42-Piscine/blob/main/C-05/ex00/ft_iterative_factorial.c) - Create a Program that Generates Iterative Factorials
+- [ex01: ft_recursive_factorial](https://github.com/merlin-101/42-Piscine/blob/main/C-05/ex01/ft_recursive_factorial.c) - Generate Recursive Factorials
+- [ex02: ft_iterative_power](https://github.com/merlin-101/42-Piscine/blob/main/C-05/ex02/ft_iterative_power.c) - Generate Iterative Powers
+- [ex03: ft_recursive_power](https://github.com/merlin-101/42-Piscine/blob/main/C-05/ex03/ft_recursive_power.c) - Generate Recursive Powers
+- [ex04: ft_fibonacci](https://github.com/merlin-101/42-Piscine/blob/main/C-05/ex04/ft_fibonacci.c) - Generate the Fibbonnacci Sequence
+- [ex05: ft_sqrt](https://github.com/merlin-101/42-Piscine/blob/main/C-05/ex05/ft_sqrt.c) - Find the Square Root of a Given Number
+- [ex06: ft_is_prime](https://github.com/merlin-101/42-Piscine/blob/main/C-05/ex06/ft_is_prime.c) - Create a function that returns 1 if the number given as a parameter is...
+- [ex07: ft_find_next_prime](https://github.com/merlin-101/42-Piscine/blob/main/C-05/ex07/ft_find_next_prime.c) - Create a function that returns the next prime number greater or equal to...
+- [ex08: ft_ten_queens_puzzle](https://github.com/merlin-101/42-Piscine/blob/main/C-05/ex08/ft_ten_queens_puzzle.c) - Create a function that displays all possible placements of the ten queens on a chessboard which...
 
 ## [C06](https://github.com/merlin-101/42-Piscine/tree/main/C-06) - Understanding Argc and Argv - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2803693" alt="rnarciso's 42 C Piscine C 06 Score" /></a>
 
