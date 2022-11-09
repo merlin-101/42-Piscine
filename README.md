@@ -48,10 +48,12 @@
 
 ## [C03](https://github.com/merlin-101/42-Piscine/tree/main/C-03) - String Functions, Manipulation and Concatanation - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2795683" alt="rnarciso's 42 C Piscine C 03 Score" /></a>
 
-- [ex00: ft_strcmp] - Compare Two Strings, Returning a Value
-- [ex01: ft_strncmp] - Compare Two Strings, Returning a Value, Using Unsigned Ints
-- [ex02: ft_strcat] - Concatanate Two Strings
-- [ex03: ft_strncat] - Concatanate Two Strings, Using Unsigned Ints
+- [ex00: ft_strcmp](https://github.com/merlin-101/42-Piscine/blob/main/C-03/ex00/ft_strcmp.c) - Compare Two Strings, Returning a Value
+- [ex01: ft_strncmp](https://github.com/merlin-101/42-Piscine/blob/main/C-03/ex01/ft_strncmp.c) - Compare Two Strings, Returning a Value, Using Unsigned Ints
+- [ex02: ft_strcat](https://github.com/merlin-101/42-Piscine/blob/main/C-03/ex02/ft_strcat.c) - Concatanate Two Strings
+- [ex03: ft_strncat](https://github.com/merlin-101/42-Piscine/blob/main/C-03/ex03/ft_strncat.c) - Concatanate Two Strings, Using Unsigned Ints
+- [ex04: ft_strstr](https://github.com/merlin-101/42-Piscine/blob/main/C-03/ex04/ft_strstr.c) - Reproduce the behavior of the function strstr
+- [ex05: ft_strlcat](https://github.com/merlin-101/42-Piscine/blob/main/C-03/ex05/ft_strlcat.c) - Reproduce the behavior of the function strlcat
 
 ## [C04](https://github.com/merlin-101/42-Piscine/tree/main/C-04) - Analysing String Qualities and Manipulating Ints - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla8uzfs700300fjvl6vylf5s/project/2798717" alt="rnarciso's 42 C Piscine C 04 Score" /></a>
 
